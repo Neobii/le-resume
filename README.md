@@ -1,3 +1,6 @@
+## Github pages
+[Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
+
 ## deploying a next app (your profile) to github pages (free!)
 [article](https://medium.com/@anotherplanet/git-tips-next-js-github-pages-2dbc9a819cb8)
 * on windows, you will have ot use ECHO >> out/.nojekyll and press enter twice
