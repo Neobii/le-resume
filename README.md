@@ -1,3 +1,7 @@
+# Neobii
+[resume.proper](https://neobii.github.io/sh-resume/)
+
+
 ## Github pages
 [Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages)
 
